@@ -1,0 +1,1 @@
+{"Banane": 1, "Apfel": 1, "Kiwi": 1}

@@ -1,0 +1,1 @@
+{"Schokolade": 1, "Erdbeere": 1, "Zitrone": 1}

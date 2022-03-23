@@ -1,0 +1,24 @@
+# TODO combinatoin bei n_clicks=0 eingeben und in global list speichern -> nachher n_clicks increamental schrift DONE!
+# TODO paare wechseln
+# TODO unter radio button angeben wieviel man noch muss DONE
+# TODO checken ob dir existiert und fehlermeldung DONE
+# TODO was ist mit plots DONE!
+# TODO eine tabelle wo man sieht was man eingegeben hat DONE
+# TODO resetknpof wäre fresh -> falls dir empty remove, sonst lassen DONE
+#  TODO alles auf deutsch übersetzen DONE
+# TODO ein knopf der alle dicts zusammenfasst und plottet DONE
+# TODO  HENNING -> ROWS schon vorher in tablle updaten DONE
+# TODO HENNING -> Summary Knopf DONE
+
+
+
+# TODO Fehlerbehandlung:
+# TODO was passiert wenn du knpof drückst ohne was zu wählen -> musst reset sonst passiert nichts OFFEN
+# TODO solange du nicht alle knöpfe gedrückt hast darfst du nicht saven OFFEN
+# TODO wenn du knopf gedrückt hast verschwindet knopf in inputer OFFEN
+# TODO fehler wenn ich bei projectdefiniton einfach lehren string rein tu OFFEN
+# TODO database update -> attribut tabellen
+
+
+# TODO Kosmetik
+# TODO bei push verschwindet wort

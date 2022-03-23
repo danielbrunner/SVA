@@ -1,0 +1,1 @@
+{"Apfel": 4, "Ananas": 3, "Trauben": 1, "Banane": 2, "Kiwi": 2, "Traube": 2, "Birne": 2}

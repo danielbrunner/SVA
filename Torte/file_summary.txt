@@ -1,0 +1,1 @@
+{"Zitrone": 2, "Schweden": 2, "Schwarzw\u00e4lder": 2, "Schokolade": 1, "Erdbeere": 1, "Schoko": 1}
